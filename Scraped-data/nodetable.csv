@@ -1,0 +1,555 @@
+Id,Label,Attribute
+shortness of breath,shortness of breath,symptom
+orthopnea,orthopnea,symptom
+jugular venous distention,jugular venous distention,symptom
+rale,rale,symptom
+dyspnea,dyspnea,symptom
+cough,cough,symptom
+wheezing,wheezing,symptom
+failure heart congestive,failure heart congestive,disease
+pain abdominal,pain abdominal,symptom
+breath-holding spell,breath-holding spell,symptom
+nausea,nausea,symptom
+decreased body weight,decreased body weight,symptom
+sore to touch,sore to touch,symptom
+scleral icterus,scleral icterus,symptom
+fever,fever,symptom
+myalgia,myalgia,symptom
+hyponatremia,hyponatremia,symptom
+retch,retch,symptom
+mass of body structure,mass of body structure,symptom
+gastroenteritis,gastroenteritis,disease
+pain,pain,symptom
+food intolerance,food intolerance,symptom
+numbness of hand,numbness of hand,symptom
+general discomfort,general discomfort,symptom
+drowsiness,drowsiness,symptom
+asthenia,asthenia,symptom
+nonsmoker,nonsmoker,symptom
+non-productive cough,non-productive cough,symptom
+polydypsia,polydypsia,symptom
+stiffness,stiffness,symptom
+unsteady gait,unsteady gait,symptom
+degenerative polyarthritis,degenerative polyarthritis,disease
+distress respiratory,distress respiratory,symptom
+hypotension,hypotension,symptom
+tachypnea,tachypnea,symptom
+chill,chill,symptom
+lethargy,lethargy,symptom
+bradycardia,bradycardia,symptom
+breech presentation,breech presentation,symptom
+cyanosis,cyanosis,symptom
+spontaneous rupture of membranes,spontaneous rupture of membranes,symptom
+haemorrhage,haemorrhage,symptom
+unresponsiveness,unresponsiveness,symptom
+apyrexial,apyrexial,symptom
+systemic infection,systemic infection,disease
+ascites,ascites,symptom
+distended abdomen,distended abdomen,symptom
+feeling suicidal,feeling suicidal,symptom
+ache,ache,symptom
+macerated skin,macerated skin,symptom
+heavy feeling,heavy feeling,symptom
+hallucinations auditory,hallucinations auditory,symptom
+asterixis,asterixis,symptom
+patient non compliance,patient non compliance,symptom
+hepatitis C,hepatitis C,disease
+hematuria,hematuria,symptom
+dysesthesia,dysesthesia,symptom
+polymyalgia,polymyalgia,symptom
+passed stones,passed stones,symptom
+pleuritic pain,pleuritic pain,symptom
+guaiac positive,guaiac positive,symptom
+breath sounds decreased,breath sounds decreased,symptom
+urge incontinence,urge incontinence,symptom
+dysuria,dysuria,symptom
+diarrhea,diarrhea,symptom
+vertigo,vertigo,symptom
+qt interval prolonged,qt interval prolonged,symptom
+ataxia,ataxia,symptom
+paresis,paresis,symptom
+hemianopsia homonymous,hemianopsia homonymous,symptom
+tumor cell invasion,tumor cell invasion,symptom
+hemodynamically stable,hemodynamically stable,symptom
+rhonchus,rhonchus,symptom
+orthostasis,orthostasis,symptom
+carcinoma prostate,carcinoma prostate,disease
+chest tightness,chest tightness,symptom
+productive cough,productive cough,symptom
+symptom aggravating factors,symptom aggravating factors,symptom
+asthma,asthma,disease
+speech slurred,speech slurred,symptom
+dysarthria,dysarthria,symptom
+facial paresis,facial paresis,symptom
+neck stiffness,neck stiffness,symptom
+numbness,numbness,symptom
+lightheadedness,lightheadedness,symptom
+extrapyramidal sign,extrapyramidal sign,symptom
+Stahli's line,Stahli's line,symptom
+vision blurred,vision blurred,symptom
+headache,headache,symptom
+room spinning,room spinning,symptom
+syncope,syncope,symptom
+difficulty,difficulty,symptom
+rambling speech,rambling speech,symptom
+clumsiness,clumsiness,symptom
+transient ischemic attack,transient ischemic attack,disease
+pruritus,pruritus,symptom
+macule,macule,symptom
+lesion,lesion,symptom
+redness,redness,symptom
+arthralgia,arthralgia,symptom
+swelling,swelling,symptom
+erythema,erythema,symptom
+photophobia,photophobia,symptom
+scratch marks,scratch marks,symptom
+painful swallowing,painful swallowing,symptom
+exanthema,exanthema,disease
+hypoproteinemia,hypoproteinemia,symptom
+fatigue,fatigue,symptom
+fatigability,fatigability,symptom
+cushingoid facies,cushingoid facies,symptom
+cushingoid habitus,cushingoid habitus,symptom
+stool color yellow,stool color yellow,symptom
+colic abdominal,colic abdominal,symptom
+pancytopenia,pancytopenia,disease
+hypersomnolence,hypersomnolence,symptom
+irritable mood,irritable mood,symptom
+verbal auditory hallucinations,verbal auditory hallucinations,symptom
+agitation,agitation,symptom
+suicidal,suicidal,symptom
+worry,worry,symptom
+hallucinations visual,hallucinations visual,symptom
+underweight,underweight,symptom
+homelessness,homelessness,symptom
+schizophrenia,schizophrenia,disease
+clonus,clonus,symptom
+egophony,egophony,symptom
+aphagia,aphagia,symptom
+muscle twitch,muscle twitch,symptom
+paralyse,paralyse,symptom
+low back pain,low back pain,symptom
+charleyhorse,charleyhorse,symptom
+aphasia,aphasia,disease
+pain chest,pain chest,symptom
+anosmia,anosmia,symptom
+thicken,thicken,symptom
+metastatic lesion,metastatic lesion,symptom
+night sweat,night sweat,symptom
+satiety early,satiety early,symptom
+neoplasm,neoplasm,disease
+polyuria,polyuria,symptom
+vomiting,vomiting,symptom
+milky,milky,symptom
+feeling strange,feeling strange,symptom
+gurgle,gurgle,symptom
+nervousness,nervousness,symptom
+abdominal tenderness,abdominal tenderness,symptom
+regurgitates after swallowing,regurgitates after swallowing,symptom
+urinary hesitation,urinary hesitation,symptom
+seizure,seizure,symptom
+aura,aura,symptom
+ketoacidosis diabetic,ketoacidosis diabetic,disease
+energy increased,energy increased,symptom
+hypersomnia,hypersomnia,symptom
+blanch,blanch,symptom
+elation,elation,symptom
+feeling hopeless,feeling hopeless,symptom
+decompensation,decompensation,symptom
+verbally abusive behavior,verbally abusive behavior,symptom
+manic disorder,manic disorder,disease
+out of breath,out of breath,symptom
+sedentary,sedentary,symptom
+angina pectoris,angina pectoris,symptom
+unhappy,unhappy,symptom
+labored breathing,labored breathing,symptom
+"hypothermia, natural","hypothermia, natural",symptom
+hematocrit decreased,hematocrit decreased,symptom
+hypoxemia,hypoxemia,symptom
+renal angle tenderness,renal angle tenderness,symptom
+feels hot/feverish,feels hot/feverish,symptom
+obesity morbid,obesity morbid,disease
+prostatism,prostatism,symptom
+fall,fall,symptom
+hirsutism,hirsutism,symptom
+sniffle,sniffle,symptom
+bradykinesia,bradykinesia,symptom
+osteoporosis,osteoporosis,disease
+breakthrough pain,breakthrough pain,symptom
+pain back,pain back,symptom
+snuffle,snuffle,symptom
+hepatosplenomegaly,hepatosplenomegaly,symptom
+green sputum,green sputum,symptom
+sickle cell anemia,sickle cell anemia,disease
+dizziness,dizziness,symptom
+sweat,sweat,symptom
+sweating increased,sweating increased,symptom
+palpitation,palpitation,symptom
+pressure chest,pressure chest,symptom
+hypertensive disease,hypertensive disease,disease
+intoxication,intoxication,symptom
+tremor,tremor,symptom
+stuffy nose,stuffy nose,symptom
+heavy legs,heavy legs,symptom
+dependence,dependence,disease
+nausea and vomiting,nausea and vomiting,symptom
+awakening early,awakening early,symptom
+tenesmus,tenesmus,symptom
+colitis,colitis,disease
+paraparesis,paraparesis,symptom
+hemiplegia,hemiplegia,symptom
+hunger,hunger,symptom
+ulcer peptic,ulcer peptic,disease
+emphysematous change,emphysematous change,symptom
+hoarseness,hoarseness,symptom
+primary malignant neoplasm,primary malignant neoplasm,disease
+hyperkalemia,hyperkalemia,symptom
+urgency of micturition,urgency of micturition,symptom
+mental status changes,mental status changes,symptom
+hypokinesia,hypokinesia,symptom
+insufficiency renal,insufficiency renal,disease
+behavior showing increased motor activity,behavior showing increased motor activity,symptom
+scar tissue,scar tissue,symptom
+dyspnea on exertion,dyspnea on exertion,symptom
+coordination abnormal,coordination abnormal,symptom
+hypercapnia,hypercapnia,symptom
+clammy skin,clammy skin,symptom
+has religious belief,has religious belief,symptom
+moan,moan,symptom
+cachexia,cachexia,symptom
+flushing,flushing,symptom
+choke,choke,symptom
+constipation,constipation,symptom
+emphysema pulmonary,emphysema pulmonary,disease
+monoclonal,monoclonal,symptom
+ecchymosis,ecchymosis,symptom
+pallor,pallor,symptom
+heme positive,heme positive,symptom
+transaminitis,transaminitis,symptom
+anemia,anemia,disease
+paresthesia,paresthesia,symptom
+gravida 0,gravida 0,symptom
+heartburn,heartburn,symptom
+lung nodule,lung nodule,symptom
+carcinoma,carcinoma,disease
+burning sensation,burning sensation,symptom
+throbbing sensation quality,throbbing sensation quality,symptom
+sensory discomfort,sensory discomfort,symptom
+presence of q wave,presence of q wave,symptom
+gastroesophageal reflux disease,gastroesophageal reflux disease,disease
+splenomegaly,splenomegaly,symptom
+hypocalcemia result,hypocalcemia result,symptom
+oliguria,oliguria,symptom
+rhd positive,rhd positive,symptom
+neutropenia,neutropenia,disease
+achalasia,achalasia,symptom
+withdraw,withdraw,symptom
+sleepy,sleepy,symptom
+parkinson disease,parkinson disease,disease
+terrify,terrify,symptom
+neologism,neologism,symptom
+mood depressed,mood depressed,symptom
+cicatrisation,cicatrisation,symptom
+blackout,blackout,symptom
+loose associations,loose associations,symptom
+paranoia,paranoia,disease
+snore,snore,symptom
+sinus rhythm,sinus rhythm,symptom
+general unsteadiness,general unsteadiness,symptom
+bruit,bruit,symptom
+consciousness clear,consciousness clear,symptom
+respiratory failure,respiratory failure,disease
+bowel sounds decreased,bowel sounds decreased,symptom
+decreased stool caliber,decreased stool caliber,symptom
+hemorrhoids,hemorrhoids,disease
+inappropriate affect,inappropriate affect,symptom
+yellow sputum,yellow sputum,symptom
+projectile vomiting,projectile vomiting,symptom
+poor feeding,poor feeding,symptom
+wheelchair bound,wheelchair bound,symptom
+hepatitis B,hepatitis B,disease
+pansystolic murmur,pansystolic murmur,symptom
+systolic ejection murmur,systolic ejection murmur,symptom
+failure heart,failure heart,disease
+coronary arteriosclerosis,coronary arteriosclerosis,disease
+pyelonephritis,pyelonephritis,disease
+rigor - temperature-associated observation,rigor - temperature-associated observation,symptom
+pancreatitis,pancreatitis,disease
+catatonia,catatonia,symptom
+r wave feature,r wave feature,symptom
+tired,tired,symptom
+overweight,overweight,symptom
+systolic murmur,systolic murmur,symptom
+obesity,obesity,disease
+photopsia,photopsia,symptom
+chest discomfort,chest discomfort,symptom
+giddy mood,giddy mood,symptom
+hyperlipidemia,hyperlipidemia,disease
+frail,frail,symptom
+decubitus ulcer,decubitus ulcer,disease
+rest pain,rest pain,symptom
+anorexia,anorexia,symptom
+peripheral vascular disease,peripheral vascular disease,disease
+mass in breast,mass in breast,symptom
+retropulsion,retropulsion,symptom
+estrogen use,estrogen use,symptom
+formication,formication,symptom
+carcinoma breast,carcinoma breast,disease
+hypometabolism,hypometabolism,symptom
+myoclonus,myoclonus,symptom
+epilepsy,epilepsy,disease
+pericardial friction rub,pericardial friction rub,symptom
+cardiomegaly,cardiomegaly,symptom
+sputum purulent,sputum purulent,symptom
+effusion pericardial,effusion pericardial,disease
+mediastinal shift,mediastinal shift,symptom
+impaired cognition,impaired cognition,symptom
+tricuspid valve insufficiency,tricuspid valve insufficiency,disease
+malignant neoplasm of breast,malignant neoplasm of breast,disease
+hydropneumothorax,hydropneumothorax,symptom
+superimposition,superimposition,symptom
+slowing of urinary stream,slowing of urinary stream,symptom
+neuropathy,neuropathy,disease
+pericardial effusion body substance,pericardial effusion body substance,disease
+flare,flare,symptom
+abscess bacterial,abscess bacterial,symptom
+pulsus paradoxus,pulsus paradoxus,symptom
+endocarditis,endocarditis,disease
+lip smacking,lip smacking,symptom
+phonophobia,phonophobia,symptom
+rolling of eyes,rolling of eyes,symptom
+moody,moody,symptom
+ambidexterity,ambidexterity,symptom
+absences finding,absences finding,symptom
+spasm,spasm,symptom
+tonic-clonic epilepsy,tonic-clonic epilepsy,disease
+weepiness,weepiness,symptom
+sleeplessness,sleeplessness,symptom
+motor retardation,motor retardation,symptom
+nightmare,nightmare,symptom
+unable to concentrate,unable to concentrate,symptom
+depressive disorder,depressive disorder,disease
+asymptomatic,asymptomatic,symptom
+ischemia,ischemia,disease
+drool,drool,symptom
+pin-point pupils,pin-point pupils,symptom
+bedridden,bedridden,symptom
+tremor resting,tremor resting,symptom
+groggy,groggy,symptom
+Alzheimer's disease,Alzheimer's disease,disease
+throat sore,throat sore,symptom
+indifferent mood,indifferent mood,symptom
+barking cough,barking cough,symptom
+decreased translucency,decreased translucency,symptom
+rapid shallow breathing,rapid shallow breathing,symptom
+noisy respiration,noisy respiration,symptom
+nasal discharge present,nasal discharge present,symptom
+cystic lesion,cystic lesion,symptom
+upper respiratory infection,upper respiratory infection,disease
+weight gain,weight gain,symptom
+hypothyroidism,hypothyroidism,disease
+poor dentition,poor dentition,symptom
+adverse reaction,adverse reaction,symptom
+adverse effect,adverse effect,symptom
+abdominal bloating,abdominal bloating,symptom
+oralcandidiasis,oralcandidiasis,disease
+hot flush,hot flush,symptom
+anxiety state,anxiety state,disease
+difficulty passing urine,difficulty passing urine,symptom
+infection urinary tract,infection urinary tract,disease
+bleeding of vagina,bleeding of vagina,symptom
+kidney disease,kidney disease,disease
+gout,gout,disease
+welt,welt,symptom
+tinnitus,tinnitus,symptom
+haemoptysis,haemoptysis,symptom
+lymphoma,lymphoma,disease
+septicemia,septicemia,disease
+para 2,para 2,symptom
+abortion,abortion,symptom
+intermenstrual heavy bleeding,intermenstrual heavy bleeding,symptom
+muscle hypotonia,muscle hypotonia,symptom
+hypotonic,hypotonic,symptom
+previous pregnancies 2,previous pregnancies 2,symptom
+primigravida,primigravida,symptom
+abnormally hard consistency,abnormally hard consistency,symptom
+proteinemia,proteinemia,symptom
+fibroid tumor,fibroid tumor,disease
+tonic-clonic seizures,tonic-clonic seizures,disease
+,,symptom
+HIV,HIV,disease
+malaise,malaise,symptom
+chronic kidney failure,chronic kidney failure,disease
+st segment depression,st segment depression,symptom
+t wave inverted,t wave inverted,symptom
+hypercholesterolemia,hypercholesterolemia,disease
+paroxysmal dyspnea,paroxysmal dyspnea,disease
+melanoma,melanoma,disease
+homicidal thoughts,homicidal thoughts,symptom
+disturbed family,disturbed family,symptom
+delusion,delusion,disease
+fecaluria,fecaluria,symptom
+pneumatouria,pneumatouria,symptom
+diverticulosis,diverticulosis,disease
+uncoordination,uncoordination,symptom
+posturing,posturing,symptom
+tonic seizures,tonic seizures,symptom
+debilitation,debilitation,symptom
+encephalopathy,encephalopathy,disease
+fremitus,fremitus,symptom
+hematochezia,hematochezia,symptom
+adenocarcinoma,adenocarcinoma,disease
+dizzy spells,dizzy spells,symptom
+shooting pain,shooting pain,symptom
+hyperemesis,hyperemesis,symptom
+carcinoma colon,carcinoma colon,disease
+infection,infection,disease
+nasal flaring,nasal flaring,symptom
+sneeze,sneeze,symptom
+extreme exhaustion,extreme exhaustion,symptom
+influenza,influenza,disease
+incoherent,incoherent,symptom
+lameness,lameness,symptom
+claudication,claudication,symptom
+unconscious state,unconscious state,symptom
+hypoglycemia,hypoglycemia,disease
+prodrome,prodrome,symptom
+hernia hiatal,hernia hiatal,disease
+flatulence,flatulence,symptom
+large-for-dates fetus,large-for-dates fetus,symptom
+para 1,para 1,symptom
+immobile,immobile,symptom
+adhesion,adhesion,disease
+hypertonicity,hypertonicity,symptom
+hypoalbuminemia,hypoalbuminemia,symptom
+thrombus,thrombus,disease
+hepatitis,hepatitis,disease
+todd paralysis,todd paralysis,symptom
+alcoholic withdrawal symptoms,alcoholic withdrawal symptoms,symptom
+suicide attempt,suicide attempt,disease
+chronic obstructive airway disease,chronic obstructive airway disease,disease
+left atrial hypertrophy,left atrial hypertrophy,symptom
+alcohol binge episode,alcohol binge episode,symptom
+cardiovascular finding,cardiovascular finding,symptom
+cardiovascular event,cardiovascular event,symptom
+tachycardia sinus,tachycardia sinus,disease
+focal seizures,focal seizures,symptom
+abnormal sensation,abnormal sensation,symptom
+stupor,stupor,symptom
+stinging sensation,stinging sensation,symptom
+hemiparesis,hemiparesis,disease
+transsexual,transsexual,symptom
+side pain,side pain,symptom
+enuresis,enuresis,symptom
+personality disorder,personality disorder,disease
+malignant neoplasms,malignant neoplasms,disease
+carcinoma of lung,carcinoma of lung,disease
+disequilibrium,disequilibrium,symptom
+gastritis,gastritis,disease
+hepatomegaly,hepatomegaly,symptom
+primary carcinoma of the liver cells,primary carcinoma of the liver cells,disease
+unwell,unwell,symptom
+history of - blackout,history of - blackout,symptom
+dehydration,dehydration,disease
+malignant neoplasm of prostate,malignant neoplasm of prostate,disease
+accident cerebrovascular,accident cerebrovascular,disease
+monocytosis,monocytosis,symptom
+posterior rhinorrhea,posterior rhinorrhea,symptom
+thrombocytopaenia,thrombocytopaenia,disease
+prostate tender,prostate tender,symptom
+pain foot,pain foot,symptom
+osteomyelitis,osteomyelitis,disease
+Heberden's node,Heberden's node,symptom
+edema pulmonary,edema pulmonary,disease
+hyperventilation,hyperventilation,symptom
+excruciating pain,excruciating pain,symptom
+gag,gag,symptom
+pulse absent,pulse absent,symptom
+hernia,hernia,disease
+migraine disorders,migraine disorders,disease
+atypia,atypia,symptom
+arthritis,arthritis,disease
+st segment elevation,st segment elevation,symptom
+myocardial infarction,myocardial infarction,disease
+behavior hyperactive,behavior hyperactive,symptom
+hyperhidrosis disorder,hyperhidrosis disorder,symptom
+mydriasis,mydriasis,symptom
+exhaustion,exhaustion,symptom
+bipolar disorder,bipolar disorder,disease
+fear of falling,fear of falling,symptom
+incontinence,incontinence,disease
+abdomen acute,abdomen acute,symptom
+air fluid level,air fluid level,symptom
+catching breath,catching breath,symptom
+ileus,ileus,disease
+cholelithiasis,cholelithiasis,disease
+glaucoma,glaucoma,disease
+hoard,hoard,symptom
+panic,panic,symptom
+chronic alcoholic intoxication,chronic alcoholic intoxication,disease
+cirrhosis,cirrhosis,disease
+biliary calculus,biliary calculus,disease
+pneumonia aspiration,pneumonia aspiration,disease
+pain neck,pain neck,symptom
+neoplasm metastasis,neoplasm metastasis,disease
+dullness,dullness,symptom
+red blotches,red blotches,symptom
+diverticulitis,diverticulitis,disease
+no status change,no status change,symptom
+failure kidney,failure kidney,disease
+affect labile,affect labile,disease
+hiv infections,hiv infections,disease
+delirium,delirium,disease
+cardiomyopathy,cardiomyopathy,disease
+coronary heart disease,coronary heart disease,disease
+pain in lower limb,pain in lower limb,symptom
+deep vein thrombosis,deep vein thrombosis,disease
+malignant neoplasm of lung,malignant neoplasm of lung,disease
+hyperacusis,hyperacusis,symptom
+lymphatic diseases,lymphatic diseases,disease
+malignant tumor of colon,malignant tumor of colon,disease
+hacking cough,hacking cough,symptom
+dyspareunia,dyspareunia,symptom
+hypokalemia,hypokalemia,symptom
+floppy,floppy,symptom
+Pneumocystis carinii pneumonia,Pneumocystis carinii pneumonia,disease
+confusion,confusion,disease
+hypertension pulmonary,hypertension pulmonary,disease
+acquired immuno-deficiency syndrome,acquired immuno-deficiency syndrome,disease
+benign prostatic hypertrophy,benign prostatic hypertrophy,disease
+stridor,stridor,symptom
+bronchitis,bronchitis,disease
+hyperbilirubinemia,hyperbilirubinemia,disease
+candidiasis,candidiasis,disease
+soft tissue swelling,soft tissue swelling,symptom
+pneumothorax,pneumothorax,disease
+Murphy's sign,Murphy's sign,symptom
+gasping for breath,gasping for breath,symptom
+feces in rectum,feces in rectum,symptom
+cholecystitis,cholecystitis,disease
+sepsis (invertebrate),sepsis (invertebrate),disease
+sciatica,sciatica,symptom
+frothy sputum,frothy sputum,symptom
+stenosis aortic valve,stenosis aortic valve,disease
+titubation,titubation,symptom
+dysdiadochokinesia,dysdiadochokinesia,symptom
+deglutition disorder,deglutition disorder,disease
+depression mental,depression mental,disease
+mitral valve insufficiency,mitral valve insufficiency,disease
+no known drug allergies,no known drug allergies,symptom
+spasm bronchial,spasm bronchial,disease
+psychotic disorder,psychotic disorder,disease
+pneumonia,pneumonia,disease
+kidney failure acute,kidney failure acute,disease
+diabetes,diabetes,disease
+hypesthesia,hypesthesia,symptom
+cellulitis,cellulitis,disease
+dementia,dementia,disease
+pustule,pustule,symptom
+hyperglycemia,hyperglycemia,disease
+overload fluid,overload fluid,disease
+gravida 10,gravida 10,symptom
+malignant neoplasms,malignant neoplasms,disease
+urinoma,urinoma,symptom
+bacteremia,bacteremia,disease
+embolism pulmonary,embolism pulmonary,disease
